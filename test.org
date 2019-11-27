@@ -1,0 +1,34 @@
+#+TITLE: Class Assessment Grading
+
+* Group 1 = 15/30
+** UI = 5/10
+*** Good
+*** Issues
+** FUNC = 5/10
+*** Good
+*** Issues
+** CODE = 5/10
+*** Good
+*** Issues
+* Group 2 = 17/30
+** UI = 5/10
+*** Good
+*** Issues
+** FUNC = 6/10
+*** Good
+*** Issues
+** CODE = 6/10
+*** Good
+*** Issues
+* Group 3 = 13/30
+** UI = 5/10
+*** Good
+*** Issues
+** FUNC = 3/10
+*** Good
+*** Issues
+** CODE = 5/10
+*** Good
+*** Issues
+**** FOUR
+***** FIVE

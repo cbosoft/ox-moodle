@@ -1,0 +1,4 @@
+#+TITLE: ox-moodle
+
+Org mode exporter backend which exports simple HTML suitable for copying into a
+Moodle site grading box.
