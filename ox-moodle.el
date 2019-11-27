@@ -55,9 +55,7 @@ holding contextual information."
 		    ((= level 2) "b")
 		    ((= level 3) "i")
 		    (else "p"))) ;; TODO fix headline assoc list?
-    (print ox-moodle-headline-format-alist)
-    (print level)
-    (format "<%s>%s</%s><br>\n%s" tag text tag (or contents ""))))
+    (format "<%s>%s</%s><br>\n%s" tag text tag (or contents "")))))
 
 
 (org-export-define-derived-backend 'moodle 'html
